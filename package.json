@@ -1,0 +1,14 @@
+{
+  "name": "thug-button",
+  "version": "1.0.0",
+  "description": "Intant thug life effect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
